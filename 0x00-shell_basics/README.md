@@ -11,3 +11,4 @@
 11.10-back-changes to previous working directory
 12.11-lists- list all files in long format in . .. and /boot
 13.12-file_type- describes the type of file of /tmp/iamafile
+14.13-symbolic_link- creates a symbolik link of /bin/ls to _ls_
