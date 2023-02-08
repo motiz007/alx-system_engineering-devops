@@ -10,3 +10,4 @@
 10.9-firstdirdeletion-deletes /tmp/my_first_directory
 11.10-back-changes to previous working directory
 12.11-lists- list all files in long format in . .. and /boot
+13.12-file_type- describes the type of file of /tmp/iamafile
