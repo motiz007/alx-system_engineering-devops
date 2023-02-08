@@ -17,3 +17,4 @@
 17. 101-clean_emacs- deletes all files ending with ~
 18. 102-tree- this creates a directory inside another directory
 19. 103-commas- list all files in commas in order
+20. school.mgc- displays files with string  SCHOOL
