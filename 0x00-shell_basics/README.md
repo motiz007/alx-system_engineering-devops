@@ -9,3 +9,4 @@
 9. 8-firstdelete- deletes betty from /tmp/my_first_directory
 10.9-firstdirdeletion-deletes /tmp/my_first_directory
 11.10-back-changes to previous working directory
+12.11-lists- list all files in long format in . .. and /boot
