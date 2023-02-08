@@ -13,3 +13,4 @@
 13. 12-file_type- describes the type of file of /tmp/iamafile
 14. 13-symbolic_link- creates a symbolik link of /bin/ls to _ls_
 15. 14-copy_html- copies html files to parent directory
+16. 100-lets_move- moves files with uppercase letters to /tmp/u
