@@ -1,0 +1,8 @@
+#!/bin/bash
+read -p "enter name of file " NAME
+vim $NAME
+chmod u+x $NAME
+vim README.md
+git add .
+git commit
+git push
