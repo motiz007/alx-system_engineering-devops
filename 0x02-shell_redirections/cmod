@@ -1,0 +1,5 @@
+#!/bin/bash
+read -p "enter name of file " NAME
+echo "#!/bin/bash" $NAME
+vim $NAME
+chmod u+x $NAME
