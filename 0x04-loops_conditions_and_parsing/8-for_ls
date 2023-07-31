@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# script that displays only file names in working directory
+
+for file in *;
+do
+	if [[ "${file:0:1}" != "." ]];
+	then
+		name="${file#*-}"
+		echo "$name"
+	fi
+done
